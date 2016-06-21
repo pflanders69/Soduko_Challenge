@@ -1,2 +1,2 @@
 # Sudoku_Challenge
-Application that solves file based soduko puzzles.
+Application that solves file based sudoku puzzles.
